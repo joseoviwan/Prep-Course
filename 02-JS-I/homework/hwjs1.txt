@@ -1,0 +1,12 @@
+variables: es como una caja donde podemos guardar informacion. ejemplo var a= 12
+string: es una cadena de valores, un STRING siempre se escribe entre comillas. ejemplo string= "hola" es un string, si escribo hola sin comillas es una varianle
+funcion: es como una licuadora donde pones frutas y sacas un jugo, son tambien ordenes o parametros que se dan. 
+ejemplo
+ funcion (a, b) => {
+       return a+b;
+}
+funcion (2, 3) => {
+    console.log (2+3)
+}
+declaraciones if: es una condicion que se asigna
+valores booleanos: son false o true
